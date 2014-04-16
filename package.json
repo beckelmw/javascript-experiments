@@ -1,0 +1,22 @@
+{
+  "name": "javascript-experiments",
+  "version": "0.0.1",
+  "description": "Simple test environment for javascript code",
+  "main": "grunt",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Bill Beckelman",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "karma": "^0.12.9",
+    "grunt-karma": "^0.8.2",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jshint-stylish": "^0.1.5",
+    "load-grunt-tasks": "^0.4.0",
+    "karma-jasmine": "^0.1.5",
+    "karma-chrome-launcher": "^0.1.3"
+  }
+}

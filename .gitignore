@@ -1,0 +1,16 @@
+bower_components
+node_modules
+dist
+.idea
+build
+build-docs
+grunt-aws.json
+.DS_STORE
+vendor/
+.tmp
+coverage/
+
+src/css/site.css
+src/js/templates.js
+src/js/search-worker.min.js
+src/js/worker-dependencies.min.js
